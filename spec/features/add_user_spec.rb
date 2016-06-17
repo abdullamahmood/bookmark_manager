@@ -1,4 +1,3 @@
-require_relative 'web_helper_spec'
 
 feature 'Adding users' do
 
